@@ -1,8 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Srishti Pathak</h1>
 <h3 align="center">CS undergrad | ML • Full-Stack • Cybersecurity | R&D Intern @ IIT BHU</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srish-pathak&label=Profile%20views&color=0e75b6&style=flat" alt="srish-pathak" />
-</p>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=srish-pathak&theme=onedark&row=1" alt="srish-pathak" />
