@@ -6,18 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=100&lines=AI%2FML+Engineer;Full+Stack+Developer;Cybersecurity+Researcher;R%26D+Intern+at+IIT+BHU" />
 </p>
 
----
-
-## 👩‍💻 About Me
-
----
-
-- 🔭 Currently working on **Smart Room Scheduler at IIT BHU**
-- 🌱 Deepening expertise in **RAG pipelines, LLMs, Agentic AI & Multi-Agent Systems**
-- 🛡️ Former **Ethical Hacking & Penetration Testing Intern** at C-DAC, MeitY (Govt. of India)
-- 🤖 Built AI-powered apps: **B.R.A.V.O** (fitness app) and **AudiCare** (smart health diagnostics)
-- 🏆 **1st place** at WebSprint Hackathon | **6th nationally** at Usha Martin University Hackathon
-- 📄 Presented research paper at **National Seminar on Cybersecurity in AI-ML** (CSI / CUJ)
 - ☕ Most of my best project ideas start as random late-night thoughts
 - 📫 Reach me at **pathaksrishti2208@gmail.com**
 
