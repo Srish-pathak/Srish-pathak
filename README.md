@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=srish-pathak&theme=onedark&row=1" alt="srish-pathak" />
+    <img src="https://photos.google.com/album/AF1QipNWiJXIwS2V6mK3y4Vjc5VWFgVwrA3B5yZQ3Axs/photo/AF1QipO3pDWnCuvjniblHXtYIkPJbVr0X0ZMDHobTz0r" alt="srish-pathak" />
   </a>
 </p>
 
@@ -71,8 +71,6 @@ Tools & DevOps
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">🚀 Featured Projects:</h3>
-ProjectDescriptionTech StackSmart Room SchedulerFaculty room booking system @ IIT BHU with real-time conflict detection & Google Calendar syncNode.js, Express, OAuth 2.0, Google Calendar APIQuiz ParikshaFull-stack exam platform with performance analyticsReact, Node.js, MongoDB, ExpressB.R.A.V.OAI fitness & nutrition app with RAG-based chatbotFlutter, FastAPI, OpenAI LLM, Pinecone, FirebaseAudiCareSmart health diagnostics with OCR & NLP triageReact Native, TypeScript, Supabase, Computer VisionNetwork Anomaly DetectionML pipeline for detecting abnormal network traffic patternsPython, Scikit-learn, Pandas, NumPyHybrid ML–Blockchain IoT SecurityML anomaly detection + blockchain secure logging for IoTML, Blockchain, IoT Security
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srish-pathak&show_icons=true&locale=en&theme=tokyonight" alt="srish-pathak stats" />
