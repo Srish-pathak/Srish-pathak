@@ -3,9 +3,7 @@
 <h3 align="center">CS undergrad | ML • Full-Stack • Cybersecurity | R&D Intern @ IIT BHU</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://photos.google.com/album/AF1QipNWiJXIwS2V6mK3y4Vjc5VWFgVwrA3B5yZQ3Axs/photo/AF1QipO3pDWnCuvjniblHXtYIkPJbVr0X0ZMDHobTz0r" alt="srish-pathak" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=250&section=header&text=Srishti%20Pathak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20%7C%20Cybersecurity&descAlignY=58" />
 </p>
 
 
