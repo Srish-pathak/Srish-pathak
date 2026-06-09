@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Srishti Pathak</h1>
 <h3 align="center">CS undergrad | ML • Full-Stack • Cybersecurity | R&D Intern @ IIT BHU</h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=250&section=header&text=Srishti%20Pathak&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20the%20Future%20with%20AI&descAlignY=58" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=100&lines=AI+Engineer;Full+Stack+Developer;Cybersecurity+Researcher;R%26D+Intern+at+IIT+BHU" />
 </p>
 🎓 Pursuing Integrated B.Tech–M.Tech in CSE at Central University of Jharkhand (CGPA: 9.29 / 10)
 🔭 Currently working on Smart Room Scheduler at IIT BHU
