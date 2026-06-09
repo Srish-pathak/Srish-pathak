@@ -10,16 +10,6 @@
 
 ## 👩‍💻 About Me
 
-I'm a 3rd-year Integrated B.Tech–M.Tech student in Computer Science & Engineering at **Central University of Jharkhand** (CGPA: **9.29 / 10**), currently interning at **IIT BHU** as an R&D Intern.
-
-My interests span Artificial Intelligence, Machine Learning, Full-Stack Development, and Cybersecurity. I've worked on RAG-based AI systems, computer vision applications, anomaly detection models, and scalable web applications.
-
-I'm driven by a deep curiosity to **learn, build, and explore** — whether it's diving into the internals of Large Language Models, experimenting with agentic AI pipelines, or crafting full-stack products that solve real-world problems. Every new technology I encounter is an opportunity to push boundaries.
-
-Currently, I'm contributing to the **Smart Room Scheduler** project at IIT BHU, integrating intelligent scheduling with Google Calendar APIs. Previously, I interned at **IIT Patna** and **C-DAC** (Ministry of Electronics & IT, Government of India).
-
-I'm also a **research paper presenter** in Cybersecurity for AI/ML and a **hackathon winner** passionate about building impactful technology solutions.
-
 ---
 
 - 🔭 Currently working on **Smart Room Scheduler at IIT BHU**
