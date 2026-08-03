@@ -119,18 +119,3 @@ I believe the best engineers are **perpetual learners**. Here's what I'm activel
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srish-pathak&show_icons=true&locale=en&theme=tokyonight" alt="srish-pathak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srish-pathak&theme=tokyonight" alt="srish-pathak streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srish-pathak&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="srish-pathak top languages" />
-</p>
